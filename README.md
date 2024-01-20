@@ -15,6 +15,7 @@
 ### 应用安装 Extension Installation [link](https://chromewebstore.google.com/detail/%E9%98%BF%E9%87%8C%E4%BA%91-dataworks-%E5%85%AC%E5%85%B1%E6%95%B0%E6%8D%AE%E9%9B%86/dhddjlgoniabgogocminjceggkleeclk?hl=en)
 
 - 此插件提供多种公开数据集如阿里电商数据集、淘宝广告数据集、QS 世界大学排名数据集、亚运奖牌榜等 SQL 查询语句，支持 MaxCompute、Hologres 及 EMR Spark 语言。
+- 也提供 VS Code 应用安装 [link](https://marketplace.visualstudio.com/items?itemName=dataworks.public-dataset)
 
 ### 操作影片
 - [YouTube](https://www.youtube.com/watch?v=qqgBn4iriM0)
