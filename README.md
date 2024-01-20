@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://img.alicdn.com/imgextra/i4/O1CN01G7NOWT24luTsw6rjR_!!6000000007432-2-tps-128-128.png" alt="logo"/>
-<h1>DataWorks DataMap Omnibox Chrome Extension</h1>
+<h1>DataWorks Public Datasets Omnibox Chrome Extension</h1>
 
 ![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![](https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -12,16 +12,16 @@
 
 ## Demo
 
-### 应用安装 Extension Installation [link](https://chromewebstore.google.com/detail/dataworks-%E6%90%9C%E8%A1%A8/pchandealfkoepcpkddkijpfiglgjkgi?hl=en)
+### 应用安装 Extension Installation [link](https://chromewebstore.google.com/detail/%E9%98%BF%E9%87%8C%E4%BA%91-dataworks-%E5%85%AC%E5%85%B1%E6%95%B0%E6%8D%AE%E9%9B%86/dhddjlgoniabgogocminjceggkleeclk?hl=en)
 
-- 此插件能将输入的搜索字跳转至 DataWorks 数据地图
-- 若需要进阶能力如在 Chrome URL 框上直接进行搜表，可参考此插件 [link](https://chromewebstore.google.com/detail/dataworks-%E6%90%9C%E8%A1%A8/pchandealfkoepcpkddkijpfiglgjkgi?hl=en)
+- 此插件提供多种公开数据集如阿里电商数据集、淘宝广告数据集、QS 世界大学排名数据集、亚运奖牌榜等 SQL 查询语句，支持 MaxCompute、Hologres 及 EMR Spark 语言。
 
 ### 操作影片
-- [YouTube](https://www.youtube.com/watch?v=aNgb5kOtQCA)
+- [YouTube](https://www.youtube.com/watch?v=qqgBn4iriM0)
 
-### URL 框搜索 (能根据输入文字判断地域、表类型并跳转 DataWorks 数据地图)
-![image](https://img.alicdn.com/imgextra/i1/O1CN01EMlqqU1p8mP6NOauT_!!6000000005316-0-tps-516-200.jpg)
+### 示例
+![image](https://img.alicdn.com/imgextra/i4/O1CN01dUmODt1F5HD3E6khb_!!6000000000435-0-tps-1280-800.jpg)
+![image](https://img.alicdn.com/imgextra/i4/O1CN01CQYE8A1H6JKp3nOFE_!!6000000000708-0-tps-1280-800.jpg)
 
 ## Table of Contents
 
