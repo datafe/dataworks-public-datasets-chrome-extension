@@ -1,0 +1,31 @@
+.sidebar-wrapper {
+  padding: 12px;
+
+  .header {
+    font-size: 16px;
+    font-weight: 600;
+
+    .dataset-title-wrapper {
+      .anticon-arrow-left {
+        margin-right: 8px;
+        vertical-align: middle;
+        cursor: pointer;
+      }
+
+      .anticon-share-alt,
+      .anticon-export {
+        margin-left: 8px;
+        vertical-align: middle;
+        cursor: pointer;
+      }
+    }
+  }
+
+  .content {
+    padding: 12px 0;
+
+    .use-guide {
+      float: right;
+    }
+  }
+}

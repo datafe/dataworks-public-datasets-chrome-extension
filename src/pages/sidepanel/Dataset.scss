@@ -1,0 +1,122 @@
+$desc-color: #696969;
+
+.dataset-item {
+  &>.description {
+    color: rgba(0, 0, 0, 0.45);
+  }
+
+  .item-view-switch {
+    margin: 16px 0 12px 0;
+  }
+
+  .ant-card-head-title {
+    font-size: 14px;
+    font-weight: 400;
+  }
+
+  .item-view-segment {
+    div.ant-segmented-item-label {
+      font-size: 12px;
+    }
+  }
+
+  .dataset-scenario {
+
+    .copy-scenario-btn {
+      margin-top: 16px;
+      display: block;
+    }
+
+    .loading-wrapper {
+      text-align: center;
+      width: 100%;
+      margin: 8px 0;
+    }
+
+    .markdown-content {
+
+      padding-left: 8px;
+      color: $desc-color;
+      font-size: 12px;
+
+      &.rerendering {
+        display: none;
+      }
+
+      h1 {
+        font-size: 16px;
+      }
+
+      h2 {
+        font-size: 14px;
+      }
+
+      h3 {
+        font-weight: 600;
+      }
+
+      .code-content {
+        padding: 8px;
+        color: #333;
+        border: 1px solid #e3e4e6;
+        border-radius: 2px;
+        overflow: auto;
+
+        .hljs-comment {
+          color: #008000;
+        }
+      }
+
+      .markdown-iframe {
+        border: none;
+        width: 100%;
+        height: 300px;
+      }
+
+      img[alt=vis-img] {
+        padding: 8px 0 8px 0;
+        width: 300px;
+      }
+
+    }
+  }
+
+  .dataset-details {
+    .details-item {
+      color: $desc-color;
+      font-size: 12px;
+
+      .ant-table {
+        margin-top: 16px;
+
+        .ant-table-cell {
+          font-size: 12px;
+        }
+      }
+
+      .column-partition-key-tag {
+        margin-left: 4px;
+      }
+    }
+
+    .license-wrapper {
+      margin-top: 16px;
+
+      .license-name {
+        font-weight: 600;
+      }
+
+      .license-url {
+        margin: 0 4px;
+      }
+
+      .license-description {
+        margin: 0 4px;
+      }
+
+      .ref-url {
+        margin: 0 4px;
+      }
+    }
+  }
+}

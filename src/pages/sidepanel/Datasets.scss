@@ -1,0 +1,14 @@
+$linkColor : #0B57D0;
+
+.dataset-list {
+  .dataset-list-item-meta {
+    .dataset-list-item-title {
+      color: $linkColor !important;
+      font-weight: 600;
+
+      span {
+        text-decoration: underline;
+      }
+    }
+  }
+}

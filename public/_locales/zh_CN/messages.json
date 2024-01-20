@@ -1,0 +1,8 @@
+{
+  "appName": {
+    "message": "阿里云 DataWorks 公共数据集"
+  },
+  "appDescription": {
+    "message": "一款可快速查看阿里云DataWorks公共数据集的插件，让您可以在侧边栏上直接查看公共数据集的介绍与使用代码。"
+  }
+}

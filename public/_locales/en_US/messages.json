@@ -1,0 +1,8 @@
+{
+  "appName": {
+    "message": "Alibaba Cloud DataWorks Public Datasets"
+  },
+  "appDescription": {
+    "message": "A extraordinary dataworks public datasets chrome extension, let you can lookup SQL statements of public datasets."
+  }
+}
