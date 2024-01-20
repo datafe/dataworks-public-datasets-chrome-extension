@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://img.alicdn.com/imgextra/i3/O1CN01FZeXqK1XjGsLAR6LX_!!6000000002959-2-tps-128-128.png" alt="logo"/>
+<img src="https://img.alicdn.com/imgextra/i4/O1CN01G7NOWT24luTsw6rjR_!!6000000007432-2-tps-128-128.png" alt="logo"/>
 <h1>DataWorks DataMap Omnibox Chrome Extension</h1>
 
 ![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
