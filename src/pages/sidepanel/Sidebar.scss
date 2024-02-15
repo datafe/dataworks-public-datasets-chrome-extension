@@ -26,6 +26,8 @@
 
     .use-guide {
       float: right;
+      position: relative;
+      z-index: 1;
     }
   }
 }
